@@ -79,11 +79,4 @@ This reads the `reward.log` and `q_values.log` files and produces reward curves.
 
 ---
 
-## 🧑‍🎓 Author
-**Zeel Vipulkumar Patel**  
-Master’s Student in Mechatronics – Universität Siegen 🇩🇪  
-Focused on **Autonomous Driving, AI, and Control Systems**.
-
----
-
 ✨ This project helped me understand the **full pipeline of deep reinforcement learning for autonomous driving**, from environment setup to training, logging, and evaluation.
